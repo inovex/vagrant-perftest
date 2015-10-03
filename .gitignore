@@ -1,0 +1,5 @@
+*.swp
+.vagrant
+.DS_Store
+*.box
+node_modules
